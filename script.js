@@ -1,3 +1,4 @@
+// Sélectionne l'élément d'entrée où l'utilisateur saisit le mot de passe dans la boîte de mot de passe  
 const passwordInput = document.querySelector(".password-box input"),
 copyIcon = document.querySelector(".password-box .copy-icon"),
 rangeInput = document.querySelector(".range-box input"),
