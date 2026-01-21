@@ -1,7 +1,7 @@
 # 🔐Password generator
 
 ## Description 
-Un générateur de mot de passe simple et élégant qui permet de créer des mots de passe sécurisés avec une longeur pérsonnalisable.
+Un générateur de mot de passe simple qui permet de créer des mots de passe sécurisés avec une longeur pérsonnalisable.
 
 ## fonctionnalités
 
